@@ -1,3 +1,3 @@
 # Prawo Rzeczypospolitej Polskiej
 
-1. [Konstytucja RP (2.04.1997)](KonstytucjaRP.md)
+1. [Konstytucja Rzeczypospolitej Polskiej](KonstytucjaRP.md) z dnia 2 kwietnia 1997 roku
