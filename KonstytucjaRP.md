@@ -941,6 +941,7 @@ Prezesa Naczelnego Sądu Administracyjnego powołuje Prezydent Rzeczypospolitej 
 
 #### Art. 188.
 Trybunał Konstytucyjny orzeka w sprawach:
+
 1. zgodności ustaw i umów międzynarodowych z Konstytucją,
 2. zgodności ustaw z ratyfikowanymi umowami międzynarodowymi, których ratyfikacja wymagała uprzedniej zgody wyrażonej w ustawie,
 3. zgodności przepisów prawa, wydawanych przez centralne organy państwowe, z Konstytucją, ratyfikowanymi umowami międzynarodowymi i ustawami,
@@ -1203,6 +1204,7 @@ W okresie roku od dnia wejścia w życie Konstytucji ustawa budżetowa może prz
 
 #### Art. 242.
 Tracą moc:
+
 1. ustawa konstytucyjna z dnia 17 października 1992 r. o wzajemnych stosunkach między władzą ustawodawczą i wykonawczą Rzeczypospolitej Polskiej oraz o samorządzie terytorialnym (Dz.U. Nr 84, poz. 426, z 1995 r. Nr 38, poz. 184, Nr 150, poz. 729 oraz z 1996 r. Nr 106, poz. 488),
 2. ustawa konstytucyjna z dnia 23 kwietnia 1992 r. o trybie przygotowania i uchwalenia Konstytucji Rzeczypospolitej Polskiej (Dz.U. Nr 67, poz. 336 oraz z 1994 r. Nr 61, poz. 251).
 
