@@ -1205,8 +1205,8 @@ W okresie roku od dnia wejścia w życie Konstytucji ustawa budżetowa może prz
 #### Art. 242.
 Tracą moc:
 
-1. ustawa konstytucyjna z dnia 17 października 1992 r. o wzajemnych stosunkach między władzą ustawodawczą i wykonawczą Rzeczypospolitej Polskiej oraz o samorządzie terytorialnym (Dz.U. Nr 84, poz. 426, z 1995 r. Nr 38, poz. 184, Nr 150, poz. 729 oraz z 1996 r. Nr 106, poz. 488),
-2. ustawa konstytucyjna z dnia 23 kwietnia 1992 r. o trybie przygotowania i uchwalenia Konstytucji Rzeczypospolitej Polskiej (Dz.U. Nr 67, poz. 336 oraz z 1994 r. Nr 61, poz. 251).
+1) ustawa konstytucyjna z dnia 17 października 1992 r. o wzajemnych stosunkach między władzą ustawodawczą i wykonawczą Rzeczypospolitej Polskiej oraz o samorządzie terytorialnym (Dz.U. Nr 84, poz. 426, z 1995 r. Nr 38, poz. 184, Nr 150, poz. 729 oraz z 1996 r. Nr 106, poz. 488),
+2) ustawa konstytucyjna z dnia 23 kwietnia 1992 r. o trybie przygotowania i uchwalenia Konstytucji Rzeczypospolitej Polskiej (Dz.U. Nr 67, poz. 336 oraz z 1994 r. Nr 61, poz. 251).
 
 #### Art. 243.
 Konstytucja Rzeczypospolitej Polskiej wchodzi w życie po upływie 3 miesięcy od dnia jej ogłoszenia.
