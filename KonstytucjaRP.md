@@ -963,7 +963,7 @@ Trybunał Konstytucyjny orzeka w sprawach:
 2. zgodności ustaw z ratyfikowanymi umowami międzynarodowymi, których ratyfikacja wymagała uprzedniej zgody wyrażonej w ustawie,
 3. zgodności przepisów prawa, wydawanych przez centralne organy państwowe, z Konstytucją, ratyfikowanymi umowami międzynarodowymi i ustawami,
 4. zgodności z Konstytucją celów lub działalności partii politycznych,
-5. kargi konstytucyjnej, o której mowa w art. 79 ust. 1.
+5. skargi konstytucyjnej, o której mowa w art. 79 ust. 1.
 
 #### Art. 189.
 Trybunał Konstytucyjny rozstrzyga spory kompetencyjne pomiędzy centralnymi konstytucyjnymi organami państwa.
